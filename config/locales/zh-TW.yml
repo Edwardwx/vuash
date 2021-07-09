@@ -28,10 +28,10 @@ zh-TW:
         link-text_html: 查看代码 &rarr;
 
       donations:
-        title: 支持捐款
+        title: 不支持捐款
         text: 。
         link-href: "https://baidu.com"
-        link-text_html:hehe  &rarr;
+        link-text_html: Buy him a Coffee &rarr;
 
   # New message page (root)
 

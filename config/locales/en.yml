@@ -23,15 +23,15 @@ en:
 
       open-source:
         title: Open Source
-        text: Vuash's source code is open. This means that anyone can verify its integrity and suggest improvements to the service.
-        link-href: https://gitlab.com/broworkers/vuash
-        link-text_html: See the code &rarr;
+        text: Vuash.
+        link-href: https://google.com
+        link-text_html: Do not see the code:) &rarr;
 
       donations:
-        title: Supported by donations
-        text: We keep Vuash up and running with our own resources. You can help us cover the costs by making a donation.
-        link-href: "https://www.buymeacoffee.com/rmasoni"
-        link-text_html: Donate with Buy Me a Coffee &rarr;
+        title: Not supported
+        text: Do not trust any one.
+        link-href: "https://google.com"
+        link-text_html: Or buy Me a Coffee &rarr;
 
   # New message page (root)
 
